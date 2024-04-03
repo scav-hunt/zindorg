@@ -1,0 +1,23 @@
+ul.nav-ul {
+    list-style: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+li.nav-li {
+    display: inline-block;
+}
+
+header {
+    align-content: center;
+    a {
+        align-self: center;
+        margin-left: auto;
+    }
+}
+
+.wrapper {
+    display: grid;
+}

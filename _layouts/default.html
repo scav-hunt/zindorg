@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <a href="{{ "/" | absolute_url }}">site title</a>
+
+        <br>
+
+        {% include navigation.html %}
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <div>footer</div>
+      </footer>
+    </div>
+  </body>
+</html>
