@@ -82,6 +82,16 @@ body {
             h1 {
                 align-self: center;
             }
+
+            .password-input {
+                align-self: center;
+                padding: 20px;
+        
+                input {
+                    border: 2px #FF8516 solid;
+                    border-radius: 5px;
+                }
+            }
         }
 
         .page-body {
