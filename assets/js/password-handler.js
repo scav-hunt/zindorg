@@ -34,6 +34,7 @@ function submitPromoCode() {
     let clean = input.toUpperCase();
     clean = clean.replace(/\s/g, '');
     let hash = hash1(clean);
+    console.log('hash: ' + hash);
 
     let pwds = {{ site.data.passwords | jsonify }};
 

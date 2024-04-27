@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MAGMATIC TEMPLE RANK
-permalink: /1735566329469297
+permalink: /4508677288538102
 ---
 
-ITEM # 339
+HASH BROWNS
