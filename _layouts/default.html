@@ -8,18 +8,23 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ "/" | absolute_url }}">site title</a>
+        <a href="{{ "/" | absolute_url }}"><img src="../assets/images/sitelogo.gif" alt="The Magmatic Temple"></a>
 
         <br>
 
         {% include navigation.html %}
+
+        {% include password-input.html %}
       </header>
-      <section>
+      <section class="page-body">
         {{ content }}
       </section>
       <footer>
         <div>footer</div>
       </footer>
     </div>
+    <script type="text/javascript">
+      console.log('ENTER PROMO CODE \"HASHBROWNS\" TO UNLOCK MORE!');
+    </script>
   </body>
 </html>

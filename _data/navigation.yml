@@ -1,2 +1,8 @@
 - name: Home
   link: /
+- name: History
+  link: /history
+- name: All About Zindorg
+  link: /zindorg
+- name: Resources
+  link: /resources
