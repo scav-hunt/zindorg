@@ -20,14 +20,6 @@ High Pompriests: Daniel Kruzan, Michael Zettel
 
 Lay Pompriests: Peter Abrams, Elisabeth Olsen, Sean-Michael Connor
 
-<div markdown="1" style="padding-bottom:0px;" class="dan-and-mike">
-
-![Dan Kruzan](../assets/images/dan.png)
-![Michael Zettel](../assets/images/kruz.png)
-
-</div>
-Dan Kruzan and Michael Zettel
-
 <br />
 
 {: style="margin-bottom:0px;"}
@@ -39,9 +31,4 @@ Dan Kruzan and Michael Zettel
 {: style="margin-top:5px;"}
 High Pompriests \
 Lay Pompriests \
-Hypabyssal Council \
-Igneous Lava Priests \
-Elders of Ash \
-Pyroclastic Circle \
-Metamorphic Acolytes \
 Church Members (various levels)

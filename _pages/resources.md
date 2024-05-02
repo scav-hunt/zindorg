@@ -54,3 +54,10 @@ All of the benefits of Basic Levels but also the ability to use Chakra Reading a
 
 Plutonic Comfort Plus: $575 \
 All of the benefits of Plutonic rank but also comes with a metal detector. 
+
+{: style="margin-top:100px;"}
+### DOCUMENTS
+- 26.F.78.A.7611
+  - b.1.A.14
+- 26.A.1.B.VI.170
+  - e.1.B.iv
