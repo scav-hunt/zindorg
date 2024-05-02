@@ -1,6 +1,6 @@
 ---
 layout: default
-title: history
+title: History
 permalink: /history
 ---
 
