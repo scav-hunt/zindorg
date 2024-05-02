@@ -16,7 +16,7 @@ The Temple is located in Chicago. Original plans were made for the main temple t
 
 ## The Magmatic Temple Through the Ages
 
-Zindorg has communed with us across time and space and the Church has taken various forms throughout that spacetime. The following is a brief history of the Church of the Magmatic Temple, for a more extensive recollection, read TEXT.
+Zindorg has communed with us across time and space and the Church has taken various forms throughout that spacetime. The following is a brief history of the Church of the Magmatic Temple, for a more extensive recollection, read *The Magmatic Teachings, Vol. II*.
 
 Caves of Southeast Asia, Before the Common Era: Formalized language was still in invention but Zindorg found ways to commune with the enlightened through tonal music. Those who had reached into the SubLime were marked by charcoal and ashes on the backs of their hands, a symbol of their Awakening and a way to connect them together.
 
