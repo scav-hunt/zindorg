@@ -48,5 +48,9 @@ Lay Pompriests: Peter Abrams, Elisabeth Olsen, Sean-Michael Connor
 
 {: style="margin-top:5px;"}
 High Pompriests \
+Theranisters \
+Elders of Ember \
+Acolytes of Aa \
+Icelandic Initiates \
 Lay Pompriests \
 Church Members (various levels)
