@@ -17,6 +17,9 @@ There are many ways to commune with us! We hope you will come visit us for a com
 ## Latest Announcements
 
 ### Magmatic Temple Bulletin:
+<audio controls src="/assets/audio/promocode.mp3"></audio>
+
+### Magmatic Temple Bulletin:
 Significant Zindorg activity detected in the Social Sciences Quad! Seek enlightenment thither.
 
 ### Magmatic Temple Bulletin: Proper Deference in Addressing Temple Members
