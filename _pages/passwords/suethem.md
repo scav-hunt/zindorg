@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sign of Ash
-permalink: /1214938885011046
+permalink: /6033014735545080
 ---
 
 # Sign of Ash
