@@ -16,6 +16,9 @@ There are many ways to commune with us! We hope you will come visit us for a com
 
 ## Latest Announcements
 
+### Magmatic Temple Bulletin: 
+The ceremony tomorrow deserves our utmost attention. Without it, all past efforts will be in vain.
+
 ### Magmatic Temple Bulletin:
 Significant Zindorg activity detected in the Crerar Quad! Seek enlightenment thither.
 
