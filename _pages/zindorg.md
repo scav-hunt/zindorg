@@ -35,7 +35,7 @@ Zindorg has not yet been directly observed by human eyes, though we are able to 
 
 Purchase Reading Materials
 
-<small>[Visit our Resources page]({{ site.url }}/resources) to explore the 3 volume "Magmatic Teachings" series or "Zindorg on Taxes"!</small>
+<small>[Visit our Resources page]({{ site.url }}/zindorg/resources) to explore the 3 volume "Magmatic Teachings" series or "Zindorg on Taxes"!</small>
 
 </div>
 
