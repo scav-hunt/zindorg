@@ -23,7 +23,7 @@ The ceremony tomorrow deserves our utmost attention. Without it, all past effort
 Significant Zindorg activity detected in the Crerar Quad! Seek enlightenment thither.
 
 ### Magmatic Temple Bulletin:
-<audio controls src="/assets/audio/promocode.mp3"></audio>
+<audio controls src="/zindorg/assets/audio/promocode.mp3"></audio>
 
 ### Magmatic Temple Bulletin:
 Significant Zindorg activity detected in the Social Sciences Quad! Seek enlightenment thither.

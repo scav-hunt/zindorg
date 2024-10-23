@@ -1,7 +1,7 @@
 <nav>
     <ul class="nav-ul">
       {% for item in site.data.navigation %}
-        <li class="nav-li"><a href="{{ item.link }}" {% if page.url == item.link %}class="current" {% else %}class="nav" {% endif %}>{{ item.name }}</a></li>
+        <li class="nav-li"><a href="/zindorg{{ item.link }}" {% if page.url == item.link %}class="current" {% else %}class="nav" {% endif %}>{{ item.name }}</a></li>
         {% endfor %}
     </ul>
 </nav>

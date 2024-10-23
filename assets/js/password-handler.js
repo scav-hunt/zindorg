@@ -43,7 +43,7 @@ function submitPromoCode() {
         if (hash === pass) {
             let hsh = hash.toString();
             let slug = hash2(hsh);
-            window.location.href = slug;
+            window.location.href = "/zindorg/" + slug;
             break;
         }
     }

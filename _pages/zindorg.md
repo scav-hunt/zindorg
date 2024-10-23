@@ -20,7 +20,7 @@ Even though Zindorg is asleep we can commune with him by transcending to the spi
 
 Zindorg has not yet been directly observed by human eyes, though we are able to commune with him in the SubLime. Below is an artist's rendering, though no mere mortal could hope to capture the true grandeur that is Zindorg.
 
-![Zindorg](../assets/images/zindorg.png "Zindorg")
+![Zindorg](../zindorg/assets/images/zindorg.png "Zindorg")
 
 </div>
 
